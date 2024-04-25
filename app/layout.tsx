@@ -39,7 +39,7 @@ export default function RootLayout({ children }: RootLayoutProps) {
                 </nav>
               </div>
             </header>
-            <p>The ultimate roadmap to advance your musical career. Whether you are a producer or an artist, these guides will provide you value in giving you guidance and insightful information. These guides are designed to be read in chronological order and to help you use frameworks for self-improvement of your music.</p>
+            <p>The ultimate roadmap to advance your musical career. For upcoming producers and artists, these guides will provide you value in giving you guidance and insightful information. These guides are designed to be read in chronological order and to help you use frameworks for self-improvement of your music.</p>
             <main>{children}</main>
             <ModeToggle />
           </div>
